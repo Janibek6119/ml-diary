@@ -1,4 +1,4 @@
-# Meh, for most of processes here CPU must be anough anyway
+# Meh, for most of processes here CPU must be enough anyway
 
 https://www.tensorflow.org/install/source#gpu
 
